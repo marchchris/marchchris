@@ -35,7 +35,3 @@
 <h2 align="left">📈 Let's Connect!</h2>
 
 ###
-
-<p align="left">💌 Feel free to reach out: christmarch@outlook.com
-
-###
