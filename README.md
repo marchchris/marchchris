@@ -36,6 +36,6 @@
 
 ###
 
-<p align="left">💌 Feel free to reach out: christmarch@outlook.com<br>🌐 Check out my portfolio: https://youtube.com/@karismcode?si=5VeYELeq95nwHQVK</p>
+<p align="left">💌 Feel free to reach out: christmarch@outlook.com
 
 ###
