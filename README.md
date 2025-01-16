@@ -32,10 +32,14 @@
 
 ###
 
+<h2 align="left">🧠 Current Projects</h2>
+
+###
+
 - 🐍 [**Neural Network Snake**](https://github.com/yourusername/neural-network-snake):  
   A game of Snake played by a neural network, trained using generational evolution. Watch the AI improve as it learns to navigate the game board!  
 
-- 🎴 [**Online Game of Kambio**](https://github.com/yourusername/online-kambio):  
-  A multiplayer online version of the card game Kambio. Play with friends or challenge opponents online!  
+- 🎴 [**Online Game of Cambio**](https://github.com/yourusername/online-kambio):  
+  A multiplayer online version of the card game Cambio. Play with friends or challenge opponents online!  
 
 ###
