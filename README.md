@@ -36,7 +36,7 @@
 
 ###
 
-- 🐍 [**Neural Network Snake**](https://github.com/yourusername/neural-network-snake):  
+- 🐍 [**Neural Network Snake**](https://github.com/marchchris/SnakeGeneticAI):  
   A game of Snake played by a neural network, trained using generational evolution. Watch the AI improve as it learns to navigate the game board!  
 
 - 🎴 [**Online Game of Cambio**](https://github.com/yourusername/online-kambio):  
