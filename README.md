@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">🧠 Current Projects</h2>
+<h2 align="left">🧠 Latest Projects</h2>
 
 ###
 
@@ -41,5 +41,3 @@
 
 - 🎴 [**Online Game of Cambio**](https://github.com/yourusername/online-kambio):  
   A multiplayer online version of the card game Cambio. Play with friends or challenge opponents online!  
-
-###
