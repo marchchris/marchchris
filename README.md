@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">I'm a passionate Computer Science student from <img
-  src="https://flagcdn.com/16x12/au.png"
-  srcset="https://flagcdn.com/32x24/au.png 2x,
-    https://flagcdn.com/48x36/au.png 3x"
-  width="16"
-  height="12"
-  alt="Australia">Brisbane, Australia.</p>
+<p align="left">I'm a passionate Computer Science student from 
+  <img
+  src="https://flagcdn.com/w20/au.png"
+  srcset="https://flagcdn.com/w40/au.png 2x"
+  width="20"
+  alt="Australia">
+  Brisbane, Australia.</p>
 
 ###
 
