@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">🧠 Latest Projects</h2>
+<h2 align="left">🧠 My Favourite Projects</h2>
 
 ###
 
