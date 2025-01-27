@@ -48,4 +48,7 @@
   A game of Snake played by a neural network, trained using generational evolution. Watch the AI improve as it learns to navigate the game board!  
 
 - 🎴 [**Online Game of Cambio**](https://github.com/yourusername/online-kambio):  
-  A multiplayer online version of the card game Cambio. Play with friends or challenge opponents online!  
+  A multiplayer online version of the card game Cambio. Play with friends or challenge opponents online!
+
+- 🌌 [**3D Mandelbulb Renderer**](https://github.com/yourusername/mandelbulb-raymarching):  
+A mesmerizing visualization of a 3D Mandelbulb using ray marching and signed distance functions. Features a spinning Mandelbulb that dynamically changes powers, creating stunning fractal animations. 
