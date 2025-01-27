@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨Been Creating bugs since 2018.<br>🎓 I'm currently majoring in Machine Learning.<br>💡 Goals: To continue to learn what the current trend is and to gain real world experience for the future.</p>
+<p align="left">🎓 I'm currently majoring in Machine Learning.<br>✨ Excited to continue learning, gain experience, and fine tune my skills for the future.</p>
 
 ###
 
