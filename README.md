@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 I'm currently majoring in Machine Learning.<br>✨ Excited to continue learning, gain experience, and fine tune my skills for the future.</p><br>🎥 I showcase off my work on my <a href="https://youtube.com/@karismcode?si=Nv4U8jM9Kxui9up8">Youtube Channel</a>.
+<p align="left">🎓 I'm currently majoring in Machine Learning.<br>✨ Excited to continue learning, gain experience, and fine tune my skills for the future.<br>🎥 I showcase off my work on my <a href="https://youtube.com/@karismcode?si=Nv4U8jM9Kxui9up8">Youtube Channel</a>.</p>
 
 ###
 
