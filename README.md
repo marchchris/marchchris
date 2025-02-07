@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">🛠️ Technologies I use</h2>
+<h2 align="left">🛠️ Tools I Use</h2>
 
 ###
 
