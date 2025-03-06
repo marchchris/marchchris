@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 I'm currently majoring in Machine Learning.<br>✨ Excited to continue learning, gain experience, and fine tune my skills for the future.<br>🎥 I showcase my work on my <a href="https://marchchris.github.io/">Portfolio</a>.</p>
+<p align="left">🎓 I'm currently majoring in Machine Learning.<br>✨ Excited to continue learning, gain experience, and fine tune my skills for the future.<br>🎥 I showcase my work on my <a href="https://marchchris.github.io/">portfolio</a>.</p>
 
 ###
 
