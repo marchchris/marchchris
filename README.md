@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 I'm currently majoring in Machine Learning.<br>✨ Excited to continue learning, gain experience, and fine tune my skills for the future.<br>🎥 I showcase my work on my <a href="https://youtube.com/@karismcode?si=Nv4U8jM9Kxui9up8">Youtube Channel</a>.</p>
+<p align="left">🎓 I'm currently majoring in Machine Learning.<br>✨ Excited to continue learning, gain experience, and fine tune my skills for the future.<br>🎥 I showcase my work on my <a href="https://marchchris.github.io/">Portfolio</a>.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,firebase,nodejs,js,ts,java,c,py,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,firebase,nodejs,tailwind,js,ts,java,c,py,figma)](https://skillicons.dev)
 
 ###
 
