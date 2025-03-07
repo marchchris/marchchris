@@ -27,11 +27,11 @@
 <h2 align="left">🧠 My Favourite Projects</h2>
 
 ###
-- 📚 [**Neural Network Snake**](https://github.com/marchchris/CardlyAI):
+- 📚 [**CardlyAI**](https://github.com/marchchris/CardlyAI):
   A Large Language Model powered full-stack web app that allows users to summarise and convert large blocks of study text into concise study flashcards which are displayed on an interactive user interface.
 
-- 💬 [**Neural Network Snake**](https://github.com/marchchris/insite):  
+- 💬 [**InSite**](https://github.com/marchchris/insite):  
   A full-stack MERN web app for collecting and analyzing user feedback. Website owners can embed a feedback button that directs users to a customizable form, with responses displayed in a dashboard for easy review.
 
-- 🐍 [**Neural Network Snake**](https://github.com/marchchris/SnakeGeneticAI):  
+- 🐍 [**Machine Learning Snake**](https://github.com/marchchris/SnakeGeneticAI):  
   A game of Snake played by a neural network, trained using generational evolution. 
