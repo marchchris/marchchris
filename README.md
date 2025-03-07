@@ -27,9 +27,11 @@
 <h2 align="left">🧠 My Favourite Projects</h2>
 
 ###
+- 📚 [**Neural Network Snake**](https://github.com/marchchris/CardlyAI):
+  A Large Language Model powered full-stack web app that allows users to summarise and convert large blocks of study text into concise study flashcards which are displayed on an interactive user interface.
+
+- 💬 [**Neural Network Snake**](https://github.com/marchchris/insite):  
+  A full-stack MERN web app for collecting and analyzing user feedback. Website owners can embed a feedback button that directs users to a customizable form, with responses displayed in a dashboard for easy review.
 
 - 🐍 [**Neural Network Snake**](https://github.com/marchchris/SnakeGeneticAI):  
-  A game of Snake played by a neural network, trained using generational evolution. Watch the AI improve as it learns to navigate the game board!  
-
-- 🌌 [**3D Mandelbulb Renderer**](https://github.com/marchchris/3DRayMarching):  
-A mesmerizing visualization of a 3D Mandelbulb using ray marching and signed distance functions. Features a spinning Mandelbulb that dynamically changes powers, creating stunning fractal animations. 
+  A game of Snake played by a neural network, trained using generational evolution. 
