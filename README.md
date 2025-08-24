@@ -20,7 +20,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,c,py,react,postgres,mongodb,firebase,nodejs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,js,ts,react,postgres,mongodb,firebase,nodejs,tailwind)](https://skillicons.dev)
 
 ###
 
