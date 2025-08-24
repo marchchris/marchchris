@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Chris👋</h1>
+<h1 align="left">Hey, I'm Chris 👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=react,mongodb,express,firebase,nodejs,tailwind,js,ts,java,c,py,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,c,py,react,postgres,mongodb,firebase,nodejs,tailwind)](https://skillicons.dev)
 
 ###
 
